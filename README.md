@@ -1,4 +1,4 @@
-### **Hey nerds** 👋
+### **Hey nerds**
 
 My name's Chris! I'm a Computer Scientist and Neuroscientist passionate about artificial intelligence, machine learning, biotechnology, biologically-inspired models, and psychology. With a strong commitment to leveraging my background for the common good, I aim to develop transformative technologies. 
 
