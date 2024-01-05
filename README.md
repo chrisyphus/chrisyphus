@@ -2,9 +2,9 @@
 
 I'm a Computer Scientist and Neuroscientist passionate about artificial intelligence, machine learning, biotechnology, biologically-inspired models, and psychology.
 
-As a first-generation and fully independent student, I aim to use my background in psychology and computer science, combined with experience in activism and scientific communication, to empower the very communities that have shaped my journey. I am fully committed to driving positive change and contributing to a brighter future. 
-
 I love hiking, scuba,  fantasy, Monty Python, 70s rock, and board games, to name a few. Also nutella. 
+
+As a first-generation and fully independent student, I aim to use my background in psychology and computer science, combined with experience in activism and scientific communication, to empower the very communities that have shaped my journey. I am fully committed to driving positive change and contributing to a brighter future. Feel free to ask me anything.
 
 <!--
 **chrisyphus/chrisyphus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
