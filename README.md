@@ -1,4 +1,4 @@
-### **Hey nerds**
+### **Hey nerds!**
 
 I'm a Computer Scientist and Neuroscientist passionate about artificial intelligence, machine learning, biotechnology, biologically-inspired models, and psychology.
 
