@@ -1,6 +1,6 @@
 ### **Hey nerds!**
 
-I'm a Computer Scientist and Neuroscientist passionate about artificial intelligence, machine learning, biotechnology, biologically-inspired models, and psychology.
+I'm a Computer Scientist and Neuroscientist passionate about artificial intelligence, machine learning, biotechnology, biologically-inspired models, and psychology. Most of my repos are private but can be made available on request.
 
 I love hiking, scuba,  fantasy, Monty Python, 70s rock, and board games, to name a few. Also nutella. 
 
